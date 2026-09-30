@@ -4,9 +4,6 @@ def compute_total(price: float, quantity: int) -> float:
     subtotal += tax
     return subtotal
 
-    
-  
-
 
 def swap_two_variables(a, b):
     temp = a
